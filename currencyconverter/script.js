@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const chartCanvas = document.getElementById('historical-chart');
     let historicalChart;
     //YOUR API KEY HERE
-    const API_KEY = 'API KEY HERE'; // Replace with your ExchangeRate-API key
+    const API_KEY = '421cc5a90d29cf0b1b7736c8'; // Replace with your ExchangeRate-API key
     const BASE_URL = 'https://v6.exchangerate-api.com/v6';
 
     // Fetch available currencies and populate the select elements
