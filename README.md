@@ -1,7 +1,7 @@
 # Currency Converter
 
 A modern currency converter web application featuring real-time exchange rates and historical data visualization. Built with a sleek dark mode interface and interactive charts.
-
+  
 ## Features
 
 - 💱 Real-time currency conversion
