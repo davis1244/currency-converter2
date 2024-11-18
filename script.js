@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let historicalChart;
 
     // API configuration
-    const API_KEY = '6dd62bc438d9875a73b03c511c5a4442';  // Your ExchangeRate-API key
+    const API_KEY = process.env.EXCHANGE_RATE_API_KEY;  // Load from environment variable
     const BASE_URL = 'https://v6.exchangerate-api.com/v6';
 
     // Fetch available currencies and populate the select elements
