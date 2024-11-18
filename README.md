@@ -10,9 +10,9 @@ A modern currency converter web application featuring real-time exchange rates a
 - 📱 Fully responsive design
 - 🔄 Support for multiple currencies
 
-## Demo
+## Live Demo
 
-👉 [Try Live Demo](https://davis1244.github.io/currency-converter2/index.html)
+👉 [Try the Currency Converter](https://davis1244.github.io/currency-converter2/)
 
 ## Technologies Used
 
