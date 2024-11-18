@@ -12,7 +12,7 @@ A modern currency converter web application featuring real-time exchange rates a
 
 ## Demo
 
-[Live Demo](https://davis1244.github.io/currency-converter2/)
+👉 [Try Live Demo](https://davis1244.github.io/currency-converter2/index.html)
 
 ## Technologies Used
 
