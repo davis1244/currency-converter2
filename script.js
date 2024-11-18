@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let historicalChart;
 
     const API_KEY = '421cc5a90d29cf0b1b7736c8'; // Replace with your ExchangeRate-API key
-    const BASE_URL = 'https://cors-anywhere.herokuapp.com/https://v6.exchangerate-api.com/v6';
+    const BASE_URL = 'https://v6.exchangerate-api.com/v6';
 
     // Fetch available currencies and populate the select elements
     async function fetchCurrencies() {
